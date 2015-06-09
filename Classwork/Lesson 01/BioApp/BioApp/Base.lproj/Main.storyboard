@@ -187,7 +187,7 @@
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="jack home.png" translatesAutoresizingMaskIntoConstraints="NO" id="NzX-2d-Lri">
                                         <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
                                         <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
-                                            <rect key="frame" x="0.0" y="0.0" width="400" height="60"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="367" height="60"/>
                                         </variation>
                                     </imageView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wjq-OP-Io7">
@@ -197,7 +197,7 @@
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
-                                            <rect key="frame" x="283" y="63" width="109" height="30"/>
+                                            <rect key="frame" x="230" y="68" width="109" height="30"/>
                                         </variation>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="H5F-LJ-uh9">
@@ -207,7 +207,17 @@
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
-                                            <rect key="frame" x="166" y="63" width="49" height="30"/>
+                                            <rect key="frame" x="85" y="68" width="49" height="30"/>
+                                        </variation>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XRP-gY-p7l">
+                                        <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                                        <state key="normal" title="Home">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
+                                            <rect key="frame" x="28" y="68" width="41" height="30"/>
                                         </variation>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NPB-AK-qmb">
@@ -217,7 +227,7 @@
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
-                                            <rect key="frame" x="81" y="63" width="62" height="30"/>
+                                            <rect key="frame" x="153" y="68" width="62" height="30"/>
                                         </variation>
                                     </button>
                                 </subviews>
@@ -227,6 +237,7 @@
                                         <exclude reference="NzX-2d-Lri"/>
                                         <exclude reference="Wjq-OP-Io7"/>
                                         <exclude reference="H5F-LJ-uh9"/>
+                                        <exclude reference="XRP-gY-p7l"/>
                                         <exclude reference="NPB-AK-qmb"/>
                                     </mask>
                                 </variation>
@@ -236,6 +247,7 @@
                                         <include reference="NzX-2d-Lri"/>
                                         <include reference="Wjq-OP-Io7"/>
                                         <include reference="H5F-LJ-uh9"/>
+                                        <include reference="XRP-gY-p7l"/>
                                         <include reference="NPB-AK-qmb"/>
                                     </mask>
                                 </variation>
