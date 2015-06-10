@@ -13,9 +13,19 @@
 		C205803B1B266CD60096EEE2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C205803A1B266CD60096EEE2 /* Images.xcassets */; };
 		C205803E1B266CD60096EEE2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C205803C1B266CD60096EEE2 /* LaunchScreen.xib */; };
 		C205804A1B266CD60096EEE2 /* BioAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20580491B266CD60096EEE2 /* BioAppTests.swift */; };
-		C20580611B26726B0096EEE2 /* jack_daniels_by_tony_shasteen_by_ashcanallstars-d59ab7d.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C205805F1B26726B0096EEE2 /* jack_daniels_by_tony_shasteen_by_ashcanallstars-d59ab7d.jpg */; };
-		C20580621B26726B0096EEE2 /* jack-daniels-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = C20580601B26726B0096EEE2 /* jack-daniels-logo.png */; };
-		C20580641B2674ED0096EEE2 /* jack home.png in Resources */ = {isa = PBXBuildFile; fileRef = C20580631B2674ED0096EEE2 /* jack home.png */; };
+		C29F49231B28C380006B00E5 /* jack_logo_1.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F49221B28C380006B00E5 /* jack_logo_1.png */; };
+		C29F49251B28C727006B00E5 /* jack_logo_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C29F49241B28C727006B00E5 /* jack_logo_2.jpg */; };
+		C29F49271B28C8C7006B00E5 /* jack_family.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F49261B28C8C7006B00E5 /* jack_family.png */; };
+		C29F49291B28CA0E006B00E5 /* jack_image.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F49281B28CA0E006B00E5 /* jack_image.png */; };
+		C29F492B1B28CAF8006B00E5 /* jack_coke.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F492A1B28CAF8006B00E5 /* jack_coke.png */; };
+		C29F492F1B28CB70006B00E5 /* jack_drink1.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F492C1B28CB70006B00E5 /* jack_drink1.png */; };
+		C29F49301B28CB70006B00E5 /* jack_drink2.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F492D1B28CB70006B00E5 /* jack_drink2.png */; };
+		C29F49311B28CB70006B00E5 /* jack_drink3.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F492E1B28CB70006B00E5 /* jack_drink3.png */; };
+		C29F49331B28CE6E006B00E5 /* jack_old 7.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F49321B28CE6E006B00E5 /* jack_old 7.png */; };
+		C29F49351B28CEB1006B00E5 /* jack_fire.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F49341B28CEB1006B00E5 /* jack_fire.png */; };
+		C29F49391B28CF9A006B00E5 /* jack_store.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F49361B28CF9A006B00E5 /* jack_store.png */; };
+		C29F493A1B28CF9A006B00E5 /* jack_visit_.png in Resources */ = {isa = PBXBuildFile; fileRef = C29F49371B28CF9A006B00E5 /* jack_visit_.png */; };
+		C29F493B1B28CF9A006B00E5 /* jack_visitor-center_resize.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C29F49381B28CF9A006B00E5 /* jack_visitor-center_resize.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,9 +49,19 @@
 		C20580431B266CD60096EEE2 /* BioAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BioAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C20580481B266CD60096EEE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C20580491B266CD60096EEE2 /* BioAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BioAppTests.swift; sourceTree = "<group>"; };
-		C205805F1B26726B0096EEE2 /* jack_daniels_by_tony_shasteen_by_ashcanallstars-d59ab7d.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "jack_daniels_by_tony_shasteen_by_ashcanallstars-d59ab7d.jpg"; path = "../../../../../jack_daniels_by_tony_shasteen_by_ashcanallstars-d59ab7d.jpg"; sourceTree = "<group>"; };
-		C20580601B26726B0096EEE2 /* jack-daniels-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "jack-daniels-logo.png"; path = "../../../../../jack-daniels-logo.png"; sourceTree = "<group>"; };
-		C20580631B2674ED0096EEE2 /* jack home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "jack home.png"; path = "../../../../../jack home.png"; sourceTree = "<group>"; };
+		C29F49221B28C380006B00E5 /* jack_logo_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack_logo_1.png; sourceTree = "<group>"; };
+		C29F49241B28C727006B00E5 /* jack_logo_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jack_logo_2.jpg; sourceTree = "<group>"; };
+		C29F49261B28C8C7006B00E5 /* jack_family.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack_family.png; sourceTree = "<group>"; };
+		C29F49281B28CA0E006B00E5 /* jack_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack_image.png; sourceTree = "<group>"; };
+		C29F492A1B28CAF8006B00E5 /* jack_coke.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack_coke.png; sourceTree = "<group>"; };
+		C29F492C1B28CB70006B00E5 /* jack_drink1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack_drink1.png; sourceTree = "<group>"; };
+		C29F492D1B28CB70006B00E5 /* jack_drink2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack_drink2.png; sourceTree = "<group>"; };
+		C29F492E1B28CB70006B00E5 /* jack_drink3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack_drink3.png; sourceTree = "<group>"; };
+		C29F49321B28CE6E006B00E5 /* jack_old 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jack_old 7.png"; sourceTree = "<group>"; };
+		C29F49341B28CEB1006B00E5 /* jack_fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack_fire.png; sourceTree = "<group>"; };
+		C29F49361B28CF9A006B00E5 /* jack_store.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack_store.png; sourceTree = "<group>"; };
+		C29F49371B28CF9A006B00E5 /* jack_visit_.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack_visit_.png; sourceTree = "<group>"; };
+		C29F49381B28CF9A006B00E5 /* jack_visitor-center_resize.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jack_visitor-center_resize.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +85,19 @@
 		C20580251B266CD60096EEE2 = {
 			isa = PBXGroup;
 			children = (
+				C29F49361B28CF9A006B00E5 /* jack_store.png */,
+				C29F49371B28CF9A006B00E5 /* jack_visit_.png */,
+				C29F49381B28CF9A006B00E5 /* jack_visitor-center_resize.jpg */,
+				C29F49341B28CEB1006B00E5 /* jack_fire.png */,
+				C29F49321B28CE6E006B00E5 /* jack_old 7.png */,
+				C29F492C1B28CB70006B00E5 /* jack_drink1.png */,
+				C29F492D1B28CB70006B00E5 /* jack_drink2.png */,
+				C29F492E1B28CB70006B00E5 /* jack_drink3.png */,
+				C29F492A1B28CAF8006B00E5 /* jack_coke.png */,
+				C29F49281B28CA0E006B00E5 /* jack_image.png */,
+				C29F49261B28C8C7006B00E5 /* jack_family.png */,
+				C29F49241B28C727006B00E5 /* jack_logo_2.jpg */,
+				C29F49221B28C380006B00E5 /* jack_logo_1.png */,
 				C20580301B266CD60096EEE2 /* BioApp */,
 				C20580461B266CD60096EEE2 /* BioAppTests */,
 				C205802F1B266CD60096EEE2 /* Products */,
@@ -86,9 +119,6 @@
 				C20580331B266CD60096EEE2 /* AppDelegate.swift */,
 				C20580351B266CD60096EEE2 /* ViewController.swift */,
 				C20580371B266CD60096EEE2 /* Main.storyboard */,
-				C20580631B2674ED0096EEE2 /* jack home.png */,
-				C205805F1B26726B0096EEE2 /* jack_daniels_by_tony_shasteen_by_ashcanallstars-d59ab7d.jpg */,
-				C20580601B26726B0096EEE2 /* jack-daniels-logo.png */,
 				C205803A1B266CD60096EEE2 /* Images.xcassets */,
 				C205803C1B266CD60096EEE2 /* LaunchScreen.xib */,
 				C20580311B266CD60096EEE2 /* Supporting Files */,
@@ -201,12 +231,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C29F492F1B28CB70006B00E5 /* jack_drink1.png in Resources */,
+				C29F49271B28C8C7006B00E5 /* jack_family.png in Resources */,
+				C29F49391B28CF9A006B00E5 /* jack_store.png in Resources */,
+				C29F49301B28CB70006B00E5 /* jack_drink2.png in Resources */,
+				C29F493B1B28CF9A006B00E5 /* jack_visitor-center_resize.jpg in Resources */,
+				C29F49331B28CE6E006B00E5 /* jack_old 7.png in Resources */,
+				C29F49251B28C727006B00E5 /* jack_logo_2.jpg in Resources */,
+				C29F492B1B28CAF8006B00E5 /* jack_coke.png in Resources */,
 				C20580391B266CD60096EEE2 /* Main.storyboard in Resources */,
-				C20580611B26726B0096EEE2 /* jack_daniels_by_tony_shasteen_by_ashcanallstars-d59ab7d.jpg in Resources */,
-				C20580621B26726B0096EEE2 /* jack-daniels-logo.png in Resources */,
 				C205803E1B266CD60096EEE2 /* LaunchScreen.xib in Resources */,
-				C20580641B2674ED0096EEE2 /* jack home.png in Resources */,
+				C29F49311B28CB70006B00E5 /* jack_drink3.png in Resources */,
+				C29F493A1B28CF9A006B00E5 /* jack_visit_.png in Resources */,
 				C205803B1B266CD60096EEE2 /* Images.xcassets in Resources */,
+				C29F49291B28CA0E006B00E5 /* jack_image.png in Resources */,
+				C29F49351B28CEB1006B00E5 /* jack_fire.png in Resources */,
+				C29F49231B28C380006B00E5 /* jack_logo_1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -421,6 +461,7 @@
 				C205804F1B266CD60096EEE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C20580501B266CD60096EEE2 /* Build configuration list for PBXNativeTarget "BioAppTests" */ = {
 			isa = XCConfigurationList;
@@ -429,6 +470,7 @@
 				C20580521B266CD60096EEE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
