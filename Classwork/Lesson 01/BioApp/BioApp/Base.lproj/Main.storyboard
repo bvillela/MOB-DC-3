@@ -319,13 +319,13 @@
         <!--History-->
         <scene sceneID="EdK-B7-g9g">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="AmC-GA-fhH" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController title="History" id="cMb-9N-h3l" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="vq7-LF-4Qq"/>
                         <viewControllerLayoutGuide type="bottom" id="fdI-SG-Sbm"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="yyI-09-3c5">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PI3-Nk-BrN">
@@ -404,7 +404,7 @@
                                     </imageView>
                                     <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Nmu-QR-EIy">
                                         <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
-                                        <mutableString key="text">The product meets the regulatory criteria for classification as a straight bourbon, though the company disavows this classification and markets it simply as Tennessee whiskey rather than as Tennessee bourbon.[6][7] As defined in the North American Free Trade Agreement, Tennessee Whiskey is classified as a straight bourbon authorized to be produced in the state of Tennessee.[8] Packaged in distinctive square bottles, a total of 11 million cases of the flagship "Black Label" product were sold in the company's fiscal year ended April 30, 2013.</mutableString>
+                                        <string key="text">The product meets the regulatory criteria for classification as a straight bourbon, though the company disavows this classification and markets it simply as Tennessee whiskey rather than as Tennessee bourbon.[6][7] As defined in the North American Free Trade Agreement, Tennessee Whiskey is classified as a straight bourbon authorized to be produced in the state of Tennessee.[8] Packaged in distinctive square bottles, a total of 11 million cases of the flagship "Black Label" product were sold in the company's fiscal year ended April 30, 2013.</string>
                                         <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -454,8 +454,9 @@
                         </variation>
                     </view>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="AmC-GA-fhH" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="783" y="291"/>
+            <point key="canvasLocation" x="771" y="291"/>
         </scene>
         <!--Products-->
         <scene sceneID="xZt-kO-Nco">
@@ -466,6 +467,7 @@
                         <viewControllerLayoutGuide type="bottom" id="PpL-Up-Nge"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="xtV-2R-pfv">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bco-1i-5yP">
@@ -599,6 +601,7 @@
                         <viewControllerLayoutGuide type="bottom" id="fUL-uY-yQV"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="kh1-gH-RBO">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="5Dm-3v-G1z">
@@ -732,6 +735,7 @@
                         <viewControllerLayoutGuide type="bottom" id="Wgd-g0-O4V"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="m7B-9l-NHE">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="uIM-k0-1Ps">
@@ -895,9 +899,9 @@
         <image name="jack_visitor-center_resize.jpg" width="838" height="586"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="k1H-ZB-1yn"/>
-        <segue reference="O6j-jw-SP5"/>
-        <segue reference="oZR-Fh-AMC"/>
-        <segue reference="kXy-xe-04x"/>
+        <segue reference="cAS-t3-K2i"/>
+        <segue reference="0Ou-et-PAL"/>
+        <segue reference="ZKB-VJ-Cpi"/>
+        <segue reference="c97-X9-M1e"/>
     </inferredMetricsTieBreakers>
 </document>
