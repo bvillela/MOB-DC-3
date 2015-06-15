@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BioApp
 //
-//  Created by Arthur Sabintsev on 6/8/15.
-//  Copyright (c) 2015 Arthur Ariel Sabintsev. All rights reserved.
+//  Created by Bruno Villela on 6/8/15.
+//  Copyright (c) 2015 Bruno Villela. All rights reserved.
 //
 
 import UIKit
@@ -12,8 +12,6 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-    
-    let test: String?
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {

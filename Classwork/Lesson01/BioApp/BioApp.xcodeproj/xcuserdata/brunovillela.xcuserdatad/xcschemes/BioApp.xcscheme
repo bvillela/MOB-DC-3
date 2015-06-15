@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8E6412F11B266CDD009164D5"
+               BlueprintIdentifier = "C205802D1B266CD60096EEE2"
                BuildableName = "BioApp.app"
                BlueprintName = "BioApp"
                ReferencedContainer = "container:BioApp.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8E6413061B266CDD009164D5"
+               BlueprintIdentifier = "C20580421B266CD60096EEE2"
                BuildableName = "BioAppTests.xctest"
                BlueprintName = "BioAppTests"
                ReferencedContainer = "container:BioApp.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8E6413061B266CDD009164D5"
+               BlueprintIdentifier = "C20580421B266CD60096EEE2"
                BuildableName = "BioAppTests.xctest"
                BlueprintName = "BioAppTests"
                ReferencedContainer = "container:BioApp.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8E6412F11B266CDD009164D5"
+            BlueprintIdentifier = "C205802D1B266CD60096EEE2"
             BuildableName = "BioApp.app"
             BlueprintName = "BioApp"
             ReferencedContainer = "container:BioApp.xcodeproj">
@@ -76,7 +76,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8E6412F11B266CDD009164D5"
+            BlueprintIdentifier = "C205802D1B266CD60096EEE2"
             BuildableName = "BioApp.app"
             BlueprintName = "BioApp"
             ReferencedContainer = "container:BioApp.xcodeproj">
@@ -95,7 +95,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8E6412F11B266CDD009164D5"
+            BlueprintIdentifier = "C205802D1B266CD60096EEE2"
             BuildableName = "BioApp.app"
             BlueprintName = "BioApp"
             ReferencedContainer = "container:BioApp.xcodeproj">

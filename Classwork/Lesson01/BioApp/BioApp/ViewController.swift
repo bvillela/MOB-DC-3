@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  BioApp
 //
-//  Created by Arthur Sabintsev on 6/8/15.
-//  Copyright (c) 2015 Arthur Ariel Sabintsev. All rights reserved.
+//  Created by Bruno Villela on 6/8/15.
+//  Copyright (c) 2015 Bruno Villela. All rights reserved.
 //
 
 import UIKit

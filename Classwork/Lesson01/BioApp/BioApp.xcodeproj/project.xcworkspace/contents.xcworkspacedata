@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../../../../../jack-logo-open-graph.png">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../jack daniels.jpg">
+   </FileRef>
+   <FileRef
       location = "self:BioApp.xcodeproj">
    </FileRef>
 </Workspace>
