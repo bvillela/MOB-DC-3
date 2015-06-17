@@ -46,6 +46,12 @@ if age >= 21 {
 
 // TODO: Print the first fifty multiples of seven minus one (e.g. the first three multiples are 7, 14, 21. The first three multiples minus one are 6, 13, 20)
 
+for i in 1...50{
+let solution = (i * 7) - 1
+    println("\(i) * 7 - 1 = \(solution)")
+
+}
+
 
 
 // TODO: Create a constant called number
