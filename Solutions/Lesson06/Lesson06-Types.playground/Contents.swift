@@ -32,4 +32,3 @@ var structA = ValueTypeExample(name: "Arthur")
 var structB = structA
 structB.name = "Thomas"
 structA
-
